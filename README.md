@@ -26,10 +26,10 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 
 ## Screenshots
 
-![App Screenshot](https://github.com/RajatPetkar/SignCall-2/blob/main/Screenshot%20(60).png)
+![App Screenshot](https://github.com/RajatPetkar/Simple-Chat-Web/blob/main/public/Screenshot%20(64).png)
 
-![App Screenshot](https://github.com/RajatPetkar/SignCall-2/blob/main/Screenshot%20(61).png)
+![App Screenshot](https://github.com/RajatPetkar/Simple-Chat-Web/blob/main/public/Screenshot%20(65).png)
 
-![App Screenshot](https://github.com/RajatPetkar/SignCall-2/blob/main/Screenshot%20(62).png)
+![App Screenshot](https://github.com/RajatPetkar/Simple-Chat-Web/blob/main/public/Screenshot%20(66).png)
 
-![App Screenshot](https://github.com/RajatPetkar/SignCall-2/blob/main/Screenshot%20(63).png)
+![App Screenshot](https://github.com/RajatPetkar/Simple-Chat-Web/blob/main/public/Screenshot%20(67).png)
